@@ -1,0 +1,91 @@
+.parentDiv{
+  
+}
+.name{
+  text-align: left;
+}
+.Alex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: black;
+  height: 50vw;
+}
+.infoBox{
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-left: 40px;
+}
+.idNumber{
+  margin-right: 60px;
+}
+
+.Home{
+  height: 8vw;
+  background: rgb(137, 137, 226);
+  margin: 0;
+
+}
+.bigBox{
+  background: rgb(219, 219, 236);
+  border: 20px;
+  width: 60%;
+  height: 50%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+}
+
+.idNumber{
+  
+  float: right;
+}
+.threeItems{
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  
+}
+.personalInfo{
+  
+  display: flex;
+  justify-content: left;
+  margin: 0;
+}
+
+.personalInfo2{
+  
+  display: flex;
+  justify-content: left;
+  margin: 0;
+}
+
+.personalInfo3{
+  
+  display: flex;
+  justify-content: left;
+  margin: 0;
+}
+
+.movies{
+  
+  text-align: left;
+}
+
+.movieItems{
+  
+  display: flex;
+  justify-content: left;
+  flex-direction: column;
+}
+.mov{
+ 
+  
+  
+}
+
